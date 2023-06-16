@@ -36,7 +36,7 @@ This will create a PNG image file with the captcha text drawn on it, with noise 
 <br>
 
 ```html
-<img src="https://github.com/a8kj7sea/Captcha/blob/main/captcha.png" alt="Captcha image">
+<img src="https://raw.githubusercontent.com/a8kj7sea/Captcha/main/captcha.png" alt="Captcha image">
 ```
 Replace path/to/captcha.png with the path to the captcha image file generated in step 3.
 
