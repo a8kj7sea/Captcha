@@ -1,4 +1,4 @@
-
+// note : the chatgpt help me to generate comments :)
 
 ## To use your captcha library in a project, you can follow these steps:
 
